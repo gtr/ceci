@@ -1,2 +1,3 @@
-# Birthday Card | Siddhant Sharma
-🎂 Responsive Birthday Card - Made with Jquery and CSS
+# Birthday Card
+
+🎂 A birthday card for my wonderful girlfriend Cecilia <3
