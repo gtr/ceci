@@ -91,8 +91,8 @@ font-family: 'Indie Flower', cursive;
 }
 
 #card-front {
-  background-color: #ee9ca7;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#FF5555), to(#FF7777));
+  background-color: #df9cee;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ed3838), to(#d1a2b1));
   background-image: linear-gradient(top, #FF5555 0%, #FF7777 100%);
   -webkit-transform-origin: left;
           transform-origin: left;
